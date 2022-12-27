@@ -1,2 +1,2 @@
 # Game Theory
- Features elimination of rigorosly dominated strategies and finding Nash Equiibruim on a given utility matrix.
+Features elimination of rigorously dominated strategies and finding Nash Equilibrium on a given utility matrix.
